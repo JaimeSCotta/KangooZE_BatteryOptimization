@@ -5,7 +5,7 @@
 *Erasmus period at Frankfurt University Of Applied Sciences*
 
 ## Abstract
-This README provides detailed information about the bachelor thesis project on battery optimization for the Renault Kangoo ZE.
+This README provides detailed information about the bachelor thesis project on Development of a Battery optimization for the Renault Kangoo ZE.
 
 ## Prerequisites
 To contribute to this project, you should have knowledge in the following:
