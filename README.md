@@ -14,7 +14,7 @@ To contribute to this project, you should have knowledge in the following:
 - Git version control system
 - MQTT (Message Queuing Telemetry Transport) basics
 - JSON (JavaScript Object Notation) basics
-- Android Studio programing basics
+- Android Studio programming basics
 - Familiarity with Raspberry Pi environment and interfacing
 
 ## Development Elements Required
