@@ -37,7 +37,7 @@ For MQTT tests, the following zip files are available:
 In addition to the above, the following files are needed:
 
 - `pylog130.zip`: An executable program that allows connection to the Pylontech battery and data transmission via the RS485 wire.
-- `ChargingAlgorithm-1.0-SNAPSHOT-jar-with-dependencies.jar` and `Charging Algorithm`: These elements are necessary for executing the solution to the problem. Knowing when it should be charged the Kangoo Battery and when the Pylontech.
+- `ChargingAlgorithm-1.0-SNAPSHOT-jar-with-dependencies.jar` and `ChargingAlgorithm` directory: These elements are necessary for executing the solution to the problem. Knowing when it should be charged the Kangoo Battery and when the Pylontech.
 - `KangooZE_App.zip`: An Android Studio project created for estimating the Kangoo ZE, as described in the thesis.
 
 ## Execution Instructions
